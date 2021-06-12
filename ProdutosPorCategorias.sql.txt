@@ -1,0 +1,10 @@
+select 
+  ct.name, 
+  sum(pd.amount)
+from  
+   categories ct
+INNER JOIN products pd
+   on ct.id = pd.id_categories
+   
+where pd.id_categories = ct.id
+GROUP by ct.name;

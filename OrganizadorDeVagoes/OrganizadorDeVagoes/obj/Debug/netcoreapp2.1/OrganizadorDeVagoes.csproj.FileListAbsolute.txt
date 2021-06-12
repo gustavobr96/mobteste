@@ -1,0 +1,12 @@
+C:\Users\Gustavo\source\repos\OrganizadorDeVagoes\OrganizadorDeVagoes\bin\Debug\netcoreapp2.1\OrganizadorDeVagoes.deps.json
+C:\Users\Gustavo\source\repos\OrganizadorDeVagoes\OrganizadorDeVagoes\bin\Debug\netcoreapp2.1\OrganizadorDeVagoes.runtimeconfig.json
+C:\Users\Gustavo\source\repos\OrganizadorDeVagoes\OrganizadorDeVagoes\bin\Debug\netcoreapp2.1\OrganizadorDeVagoes.runtimeconfig.dev.json
+C:\Users\Gustavo\source\repos\OrganizadorDeVagoes\OrganizadorDeVagoes\bin\Debug\netcoreapp2.1\OrganizadorDeVagoes.dll
+C:\Users\Gustavo\source\repos\OrganizadorDeVagoes\OrganizadorDeVagoes\bin\Debug\netcoreapp2.1\OrganizadorDeVagoes.pdb
+C:\Users\Gustavo\source\repos\OrganizadorDeVagoes\OrganizadorDeVagoes\obj\Debug\netcoreapp2.1\OrganizadorDeVagoes.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\OrganizadorDeVagoes\OrganizadorDeVagoes\obj\Debug\netcoreapp2.1\OrganizadorDeVagoes.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\OrganizadorDeVagoes\OrganizadorDeVagoes\obj\Debug\netcoreapp2.1\OrganizadorDeVagoes.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\OrganizadorDeVagoes\OrganizadorDeVagoes\obj\Debug\netcoreapp2.1\OrganizadorDeVagoes.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\OrganizadorDeVagoes\OrganizadorDeVagoes\obj\Debug\netcoreapp2.1\OrganizadorDeVagoes.dll
+C:\Users\Gustavo\source\repos\OrganizadorDeVagoes\OrganizadorDeVagoes\obj\Debug\netcoreapp2.1\OrganizadorDeVagoes.pdb
+C:\Users\Gustavo\source\repos\OrganizadorDeVagoes\OrganizadorDeVagoes\obj\Debug\netcoreapp2.1\OrganizadorDeVagoes.genruntimeconfig.cache
